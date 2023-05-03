@@ -8,7 +8,7 @@ export function Hero(){
     <Container id="home">
       <div className="hero-text">
         <ScrollAnimation animateIn="fadeInUp">
-          <p>Hello 👋, I'm</p>
+          <p>Hi 👋, I'm</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.2*1000}>
           <h1>Braydon Liu</h1>
