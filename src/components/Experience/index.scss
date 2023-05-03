@@ -1,0 +1,28 @@
+@import '../../App.scss';
+
+.experience {
+  padding-left: 5em;
+  padding-right: 5em;
+  @include breakpoint(md) {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 4em;
+  }
+  h3 {
+    color: $navbg;
+  }
+
+  h4 {
+    color: $bg;
+  }
+
+  p {
+    color: $primary-color;
+  }
+  .date {
+    color: white;
+  }
+  img {
+    cursor: pointer;
+  }
+}
