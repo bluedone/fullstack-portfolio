@@ -50,7 +50,7 @@ export function Portfolio() {
               <a href="https://github.com/bluedone/My-full-stack-Protfolio" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visitar github" />
                 </a>
-                <a href="http://localhost:3000/" target="_blank" rel="noreferrer">
+                <a href="https://portfolio-fullstack-bray-f0df4.web.app/" target="_blank" rel="noreferrer">
                   <img src={externalLinkIcon} alt="Visitar site" />
                 </a>
               </div>
